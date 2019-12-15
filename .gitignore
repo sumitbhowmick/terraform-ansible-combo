@@ -1,0 +1,8 @@
+.terraform
+*.tfstate
+*.backup
+*.retry
+*.sh
+terraform_key
+aws.key
+vars.tf
